@@ -15,13 +15,21 @@ Process step by step:-
  
  𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀:-
  • Compare the sales and orders using a single chart.
+ 
  • Which month got the highest sales and orders?
+ 
  • Who purchased more men or women in 2022?
+ 
  • What are the different order statuses in 2022?
+ 
  • List the top 5 states contributing to the sales?
+ 
  • Relation between age and gender based on several orders.
+ 
  • Which channel is contributing to maximum sales?
+ 
  • Highest selling category? etc.
+ 
  
  
 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:-
